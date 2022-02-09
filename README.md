@@ -2,7 +2,7 @@
 
 ### About
 This tool is built with eml-parser
-Takes a folder of .eml files and converts the entire folder to html files.
+This tool takes a folder of .eml files and converts the entire folder to html files.
 
 ### How to use:
 1. Install dependencies
