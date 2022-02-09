@@ -1,7 +1,7 @@
 # EML to HTML Converter
 
 ### About
-This tool is built with eml-parser
+This tool is built with eml-parser.
 This tool takes a folder of .eml files and converts the entire folder to html files.
 
 ### How to use:
